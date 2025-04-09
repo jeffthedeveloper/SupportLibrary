@@ -180,4 +180,4 @@ Agradeço a todos que contribuíram para este repositório e à comunidade de de
 
 ---
 
-Esse README.md é abrangente e organizado, facilitando a navegação e o entendimento do repositório. Se precisar de ajustes ou mais detalhes, é só pedir! 😊
+Esse README.md é abrangente e organizado, facilitando a navegação e o entendimento do repositório. Se precisar de ajustes ou mais detalhes, é só pedir! 😊"# SupportLibrary" 
